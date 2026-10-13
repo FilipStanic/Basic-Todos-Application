@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://raw.githubusercontent.com/FilipStanic/Basic-Todos-Application/master/src/components/Application_Todos_Basic_1.7.zip).
+See [Configuration Reference](https://filipstanic.github.io).
